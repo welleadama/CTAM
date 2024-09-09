@@ -4,7 +4,7 @@
 -----
 ![téodose](./teodoseé.JPG "Voici le portarait du futur présudent de Lomé")
 -----
-## Né le 09 Septembre 1915 à lomé, théodose est un veritable guérier de la seconde guérre mondiale
+## Né le 09 Septembre 1915 à Lomé, théodose est un veritable guérier de la seconde guérre mondiale
 
 
  ###  Son premier débarquement 
