@@ -1,0 +1,109 @@
+Script started on 2024-09-09 12:47:04+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ make clean[5Pcd ..make clean[K[Kmake clean[5Pcd ..[1Pmake clean_clean[K_clean clean[Kcd ..make clean[K[KScript , [C[1P[1@s[C[C[C[C[C[C[C[C[1P[1@S[C[C[C[C[C[C[C[1P [K? [1P , [C [K[1P [C S t a r [1P [1P [1P [1P s t a r t d e [1P [1P e d , [C o u t p u t [C l o g [C i [1P f i l e [C i s [C ' t e r m i n a l _ l i g n e _ d e [C [K_ c o d e . t x t  [A]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h> Script started, output log file is 'terminal_ligne_de_code.txt [C[Cmake[K clean[C[C[5Pcd ..[C[C[1Pmake clean_clean[K clean[K[C[Ccd ms4w/apps/basemaps/data[C[Cmake[K clean[K_clean clean[K[C[Ccd ..[C[Cmake clean[K[C[CScript started, output log file is 'terminal_ligne_de_code.txt [C[C[KScript started, output log file is 'terminal_ligne_de_code.txt [C[Cmake[K clean[C[C[5Pcd ..[C[C[1Pmake clean_clean[K clean[K[C[Ccd ms4w/apps/basemaps/data[C[C[C[C[Cc[Kms4w/apps/basemaps/data[C[C[C[C[C/mnt[K[Kmake[C[Cls -la[C[C[1Pcd ..[C[Cls -la[C[C[2Pmake[C[C[1Pcd /mntms4w/apps/basemaps/data[C[C[C[C[Cc[Kms4w/apps/basemaps/data[C[Cmake[K clean[K_clean clean[K[C[Ccd ..[C[Cmake clean[K[C[CScript started, output log file is 'terminal_ligne_de_code.txt [C[C[KScript started, output log file is 'terminal_ligne_de_code.txt [C[Cmake[K clean[C[C[5Pcd ..[C[C[1Pmake clean_clean[K clean[K[C[Ccd ms4w/apps/basemaps/data[C[C[C[C[Cc[Kms4w/apps/basemaps/data[C[Cmake[K clean[K_clean clean[K[C[Ccd ..[C[Cmake clean[K[C[CScript started, output log file is 'terminal_ligne_de_code.txt [C[C[Kgit brach[K[Knch
+[?2004l[?2004h> [K> git master[K[K[K[K[K[K[K[K[K[Khystory
+[?2004l[?2004h> Script started, output log file is 'terminal_ligne_de_code.txt 
+git branch
+hystory[1Pystory[1Pstoryhstory[Cistory[C[C
+[?2004lCommand 'Script' not found, did you mean:
+  command 'script' from deb bsdutils (1:2.37.2-4ubuntu3.4)
+Try: sudo apt install <deb name>
+[?1h=  chckout[m[m
+  checkout[m[m
+  evol1[m[m
+* [32mmaster[m[m
+[K[?1l>    1  sudo apt update
+    2  sudo apt install osm2pgsql
+    3  mkdir table_space
+    4  pwd
+    5  osm2pgsql
+    6  psql
+    7  osm2pgsl
+    8  exit
+    9  sudo apt update
+   10  sudo apt install build-essential
+   11  SET PROJ_LIB=C:\ms4w\proj\nad
+   12  set PROJ_LIB=C:\ms4w\proj\nad
+   13  cd/mnt/
+   14  cd /mnt
+   15  set PROJ_LIB=C:\ms4w\proj\nad
+   16  sudo apt install wget
+   17  sudo apt install unzip
+   18  wget
+   19  cd c
+   20  cd C:ms4w\apps\basemaps\data
+   21  CD C:/ms4w/apps/basemaps/data
+   22  cd ms4w/apps/basemaps/data
+   23  make
+   24  cd ..
+   25  ls -la
+   26  make
+   27  cd 
+   28  cd /mnt
+   29  cd ms4w/apps/basemaps/data
+   30  cd c
+   31  cd ms4w/apps/basemaps/data
+   32  make
+   33  make clean
+   34  make
+   35  make_clean
+   36  make clean
+   37  make
+   38  cd ..
+   39  make clean
+   40  make
+   41  Script started, output log file is 'terminal_ligne_de_code.txt 
+git branch
+hystory
+Script started, output log file is 'terminal_ligne_de_code.txt 
+   42  git branch
+   43  history
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ historygit branch
+[?2004l[?1h=  chckout[m[m
+  checkout[m[m
+  evol1[m[m
+* [32mmaster[m[m
+[K[?1l>[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git branch[3Phistorygit branch[Kgit branch[3Phistorygit branch  ~e[K[Ke[Kevol1
+[?2004lfatal: A branch named 'evol1' already exists.
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ gi[K[Kbit 
+[?2004lCommand 'bit' not found, did you mean:
+  command 'wit' from deb wit (3.01a-4)
+  command 'bip' from deb bip (0.9.3-1)
+  command 'git' from deb git (1:2.34.1-1ubuntu1.11)
+  command 'bti' from deb bti (034-6)
+  command 'btt' from deb blktrace (1.2.0-5)
+  command 'vit' from deb vit (2.1.0-2)
+  command 'bst' from deb buildstream (1.6.1-1)
+Try: sudo apt install <deb name>
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ bit help
+[?2004lCommand 'bit' not found, did you mean:
+  command 'wit' from deb wit (3.01a-4)
+  command 'vit' from deb vit (2.1.0-2)
+  command 'btt' from deb blktrace (1.2.0-5)
+  command 'bip' from deb bip (0.9.3-1)
+  command 'bti' from deb bti (034-6)
+  command 'git' from deb git (1:2.34.1-1ubuntu1.11)
+  command 'bst' from deb buildstream (1.6.1-1)
+Try: sudo apt install <deb name>
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$  git status
+[?2004lOn branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mterminal_ligne_de_code.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git commit _m[K[K-m codd[Ke[K[K[K"[K[K"code"
+[?2004lOn branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mterminal_ligne_de_code.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git comit[K[Kmit
+[?2004lOn branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mterminal_ligne_de_code.txt[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP1
