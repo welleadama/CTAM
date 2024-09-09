@@ -52,3 +52,13 @@ Plusieurs sentiers de randonnée peuvent vous mener au sommet. Si besoin, vous p
 
 En continuant la randonnée, vous arrivez à la croix du Môle. Là-haut, une vue sur le massif du Mont-Blanc vous attend. De là-haut, vous pourrez également voir le massif des Bornes-Aravis.
 
+##### Citations inspirantes sur le succès
+L'échec et la persévérance sont des ingrédients probables du succès. Il en existe une multitude d'autres, parmi lesquels la passion et l'audace.
+
+*« Passion projects are more important than day jobs. »*, **Gary Vaynerchuk.**
+*« Le succès est toujours un enfant de l'audace. »*, **Prosper de Crébillon.**
+*« Tu ne sais jamais à quel point tu es fort, jusqu'au jour où être fort reste ta seule option. »*, **Bob Marley.**
+ 
+![SUCCES](./succes.JPG)
+
+---
