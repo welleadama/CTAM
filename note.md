@@ -36,3 +36,17 @@ Le nom de France n'est employé de façon officielle qu'à partir de 1190 enviro
 
 Les Romains étaient les premiers à unifier l'administration de la Gaule en langue latine, laquelle est devenue celle de l'Église. Le concile de Tours, réuni en 813 à l'initiative de Charlemagne, impose désormais de prononcer les homélies dans les langues vulgaires au lieu du latin. Paris, appelée à devenir la capitale par l'avènement en 987 de la dynastie capétienne, devient un centre universitaire renommé. La culture française connaît un élan nouveau au contact de la Renaissance italienne lors des guerres d'Italie. Elle s'enrichit des débats sur la réforme religieuse et n'est pas par la suite étouffée comme en Italie par une contre-réforme trop rigoureuse. Elle éclot pleinement à compter du XVIIe siècle, développant un classicisme imprégné de cartésianisme. C'est à cette époque que le français prend sa forme moderne sous l'égide de l'Académie française. Le XVIIIe siècle est le siècle de la philosophie des Lumières, marqué par la promotion de la raison par les philosophes français dans les cours et capitales européennes et qui s'achève par la Révolution française. 
 
+
+
+Randonnée incontournable : le Môle
+
+Le Môle est une randonnée incontournable à faire en Haute-Savoie. Avec une altitude de 1 863 mètres, vous pourrez découvrir à son sommet, une vue panoramique sur la vallée.
+
+Visible depuis Genève, le Môle est une montagne célèbre, facile à gravir. Adama est parti à l’aube pour découvrir le Môle et la vallée qui l’entoure au lever du jour.
+Randonnée au Môle ©ATMB
+Randonnée au Môle ©ATMB
+
+Plusieurs sentiers de randonnée peuvent vous mener au sommet. Si besoin, vous pouvez faire une étape au Petit Môle, qui vous offre déjà une belle vue sur la vallée. 
+
+En continuant la randonnée, vous arrivez à la croix du Môle. Là-haut, une vue sur le massif du Mont-Blanc vous attend. De là-haut, vous pourrez également voir le massif des Bornes-Aravis.
+
