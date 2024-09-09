@@ -106,4 +106,119 @@ Untracked files:
 	[31mterminal_ligne_de_code.txt[m
 
 nothing added to commit but untracked files present (use "git add" to track)
-[?2004h]0;idgeo@GS11: /mnt/c/users/CP1
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git add* 
+[?2004lgit: 'add*' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git add* [K[K *
+[?2004l[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ gui[K[Kt [K[Kit commit -m "code"
+[?2004l[master 3569fe3] code
+ Committer: adama <idgeo@GS11.idgeo.lan>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 109 insertions(+)
+ create mode 100644 terminal_ligne_de_code.txt
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git remo[K[K[K[Kbranch -M 
+[?2004lfatal: branch name required
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git branch -M  VOL[K[K[Kvol1
+[?2004l[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ gui [K[K[Kid[Kt remote add orgigine[K[K[K[K[K[Kigine [K[K https://GITHUB[K[K[K[K[K[Kgithub.com/welleadama.[K/ws_git_cpge om2325.git
+[?2004l[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git push _[K[K -u origin vol1
+[?2004lUsername for 'https://github.com': welleadama
+Password for 'https://welleadama@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/welleadama/ws_git_cpgeom2325.git/'
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git push -u origin vol1[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+[?2004lfatal: The current branch vol1 has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin vol1
+
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git push -u origin vol1[K[K[K[K
+[?2004lfatal: The current branch vol1 has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin vol1
+
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git push -u origin [K -u origin vol1[K[K[K[Kmaster
+[?2004lerror: src refspec master does not match any
+[31merror: failed to push some refs to 'https://github.com/welleadama/ws_git_cpgeom2325.git'
+[m[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git push -u origin master[K[K -u origin vol1
+[?2004lUsername for 'https://github.com': welleadama
+Password for 'https://welleadama@github.com': 
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/welleadama/ws_git_cpgeom2325.git/'
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git push -u origin vol1[K[K[K[Kmain
+[?2004lerror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/welleadama/ws_git_cpgeom2325.git'
+[m[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git push -u origin main
+[?2004lerror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/welleadama/ws_git_cpgeom2325.git'
+[m[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git push -u origin mainvol1master[K[K -u origin vol1remote add origin https://github.com/welleadama/ws_git_cpgeom2325.git[A]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [C[C[C[Cbranch -M  vol1[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcommit -m "code"add *[K* commit -m "code"[12Pbit help[Kgit branch  evol1[K[3Phistorygit branchScript started, output log file is 'terminal_ligne_de_code.txt  
+git branch
+hystory
+Script started, output log file is 'terminal_ligne_de_code.txt [A[A[A[Amake[K
+[K
+[K
+[K
+[K[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CScript started, output log file is 'terminal_ligne_de_code.txt  
+git branch
+hystory
+Script started, output log file is 'terminal_ligne_de_code.txt [A[A[A[Agit branch[K
+[K
+[K
+[K
+[K[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3Phistorygit branch  evol1bit [Khelpgit commit -m "code"[K[1Padd*  *commit -m "code"[6Pbranch -M  vol1remote add origin https://github.com/welleadama/ws_git_cpgeom2325.git[A]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [C[C[C[Cpush -u origin vol1[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K -u origin master[2Pvol1main[Kgit push -u origin mainvol1master[K[K -u origin vol1remote add origin https://github.com/welleadama/ws_git_cpgeom2325.git[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Khttps://github.com/welleadama/ws_git_cpgeom2325.git
+[?2004lerror: remote origin already exists.
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git remote add origin https://github.com/welleadama/ws_git_cpgeom2325.git[A]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [C[C[C[Cpush -u origin main[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvol1mainremote add origin https://github.com/welleadama/ws_git_cpgeom2325.git[A]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit remote add origin https://github.com/welleadama/ws_git_cpgeom2325.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_ https://github.com/welleadama/ws_git_cpgeom2325.git[A]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C2 https://github.com/welleadama/ws_git_cpgeom2325.git[A]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git remote add origin_2 https://github.com/welleadama/ws_git_cpgeom2325.git[A]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C https://github.com/welleadama/ws_git_cpgeo[2Pm2325.git[A]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [C[C[C[Cpush -u origin main[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_ main2 main
+[?2004lerror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/welleadama/ws_git_cpgeom2325.git'
+[m[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git push -u origin_2 main[1P[1P[1P
+[?2004lerror: src refspec main does not match any
+[31merror: failed to push some refs to 'https://github.com/welleadama/ws_git_cpgeom2325.git'
+[m[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git push origin_2 main[K[K[Kaster
+[?2004lerror: src refspec master does not match any
+[31merror: failed to push some refs to 'https://github.com/welleadama/ws_git_cpgeom2325.git'
+[m[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ ls
+[?2004l[0m[01;32mnote.md[0m  [01;32mteodoseé.JPG[0m  [01;32mterminal_ligne_de_code.txt[0m  [01;32mtest_théodose.md[0m
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git cge[K[Khecj[Kl[Kkour[K[K[K[K[Kckout master
+[?2004lerror: pathspec 'master' did not match any file(s) known to git
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git branch
+[?2004l[?1h=  chckout[m[m
+  checkout[m[m
+  evol1[m[m
+* [32mvol1[m[m
+[K[?1l>[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ ls
+[?2004l[0m[01;32mnote.md[0m  [01;32mteodoseé.JPG[0m  [01;32mterminal_ligne_de_code.txt[0m  [01;32mtest_théodose.md[0m
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ lsgit branchcheckout masterls[Kgit push origin_2 master[C[2Pin[3@-u [C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin_2 https://github.com/welleadama/ws_git_cpgeom2325.git[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lerror: remote origin_2 already exists.
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git commit
+[?2004lOn branch vol1
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	[31mmodified:   terminal_ligne_de_code.txt[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[?2004h]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ git commitremote add origin_2 https://github.com/welleadama/ws_git_cpgeom2325.git[A]0;idgeo@GS11: /mnt/c/users/CP11.IDGEO/desktop/html/exo_git[01;32midgeo@GS11[00m:[01;34m/mnt/c/users/CP11.IDGEO/desktop/html/exo_git[00m$ [C[C[C[Ccommit[K
+[K[A
